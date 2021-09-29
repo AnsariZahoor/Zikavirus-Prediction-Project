@@ -1,4 +1,4 @@
-# Zikavirus-Prediction-Project
+# ZIKA VIRUS EPIDEMIC OUTBREAK PREDICTION
 End-to-End Machine Learning group project conduct by Packt &amp; TeamEpic.
 
 
