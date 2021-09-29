@@ -30,7 +30,7 @@ AI solution to help health authorities take appropriate measures to ensure that 
 
 **Web development**: HTML, CSS, Javascript, Boostrap
 
-**Libraries**: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Flask, Request, chart.js
+**Libraries**: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Flask, Request, Joblib, chart.js
 
 **ML Algorithms**: AdaBoost, CatBoost, XGBoost, Decision Tree, Random Forest, Naive Bayes, Logistic Regression, Ridge Regression, Linear Regression, Lasso Regression
 
