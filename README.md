@@ -22,7 +22,7 @@ Use this command to run docker container
 COVID19 has shown the real face of our healthcare infrastructure, planning, and readiness to address a pandemic with limited resources, unprepared staff, and broken supply chains. Government agencies if provided with this information well in advance, can plan and execute them in a well-orchestrated manner optimizing the use of staff, resources at their disposal. In this project, we aim is to analyze and build a multimodal model to predict the likelihood of an area having an outbreak.
 
 ## Solution:
-AI solution to help health authorities take appropriate measures to ensure that there are sufficient resources to meet demand and, where possible, to curb the emergence of such epidemics.
+This project will help health authorities to predict the likelihood of an area having an outbreak. So that health authorities take appropriate measures to ensure that there are sufficient resources to meet demand and, where possible to curb the emergence of such epidemics. After entering country name and from start date to end date for prediction on a webpage, model will predict the likelihood of an outbreak with no. of cases.
 
 
 ## Technology stack
