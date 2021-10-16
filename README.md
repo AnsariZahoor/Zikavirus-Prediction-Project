@@ -44,3 +44,5 @@ This project will help health authorities to predict the likelihood of an area h
 ## Architecture of the project
 ![image](https://user-images.githubusercontent.com/66164268/135323580-289f7b8f-72de-449d-ab6b-add562db8382.png)
 
+## Video with explanation
+https://www.linkedin.com/posts/ansarizahoor_teamepic-packt-datascience-activity-6853738204084912129-boay
